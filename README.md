@@ -2,6 +2,10 @@
 
 AI allocates the year of bar exam to be solved.
 
+## Access
+
+https://mtsg.github.io/bar-exam-year-allocator/
+
 
 ## Local development
 1. Setup environments; Node.js<=18.19.1, yarn
